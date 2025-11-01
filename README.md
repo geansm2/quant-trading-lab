@@ -26,4 +26,4 @@ Este repositório reúne meus estudos e experimentos em **trading quantitativo**
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/quant-trading-lab.git
+git clone https://github.com/geansm2/quant-trading-lab.git
